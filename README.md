@@ -13,8 +13,8 @@ HS Otimização Inteligente é um aplicativo criado para quem quer manter o comp
 💡 Interface Moderna: Design escuro e elegante, pensado para oferecer a melhor experiência ao usuário.
 
 🌐 Acesse nosso site:
-🔗 www.hsoptimizacaointeligente.com
-(ou substitua com o link real que você tiver)
+🔗 (https://henriqueesantana.github.io/HS-Optimization-Inteligente/)
+
 
 📌 Ideal para:
 Quem busca desempenho, praticidade e um visual profissional na hora de cuidar do PC.
